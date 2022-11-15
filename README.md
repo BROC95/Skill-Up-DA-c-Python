@@ -48,6 +48,6 @@ grupo de universidades, utilizando Pandas.
 
 ## Integrantes y grupos asignados
 
-- [Di Paola, Matias](https://github.com/dipaolme) - Grupo A
+
 - [Breyner Ocampo Cardenas](https://github.com/BROC95) - Grupo B
 
