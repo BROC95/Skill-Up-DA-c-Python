@@ -106,7 +106,8 @@ def load():
     # client = session.client("s3")
     s3_client = session.client('s3')
     try:
-        response = s3_client.upload_file(file_name, bucket, object_name)
+        # response = s3_client.upload_file(file_name, bucket, object_name)
+        response = s3_client.upload_file(Filename=file_name,Bucket= bucket['Name'],Key= object_name)
     except ClientError as e:
         logger.error(e)
         return False
