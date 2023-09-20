@@ -51,3 +51,6 @@ grupo de universidades, utilizando Pandas.
 
 - [Breyner Ocampo Cardenas](https://github.com/BROC95) - Grupo B
 
+## ETL
+
+![Descripción de la imagen](https://github.com/BROC95/Skill-Up-DA-c-Python/blob/grupoB/ETL%20AWS%20(2023).png)
